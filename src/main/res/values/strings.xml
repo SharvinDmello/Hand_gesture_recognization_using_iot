@@ -1,4 +1,0 @@
-<resources>
-    <string name="app_name">Gesture Control App</string>
-    <string name="accessibility_service_description">Allows Gesture Control App to perform gestures (scroll, swipe) on your behalf.</string>
-</resources>
